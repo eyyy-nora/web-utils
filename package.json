@@ -1,0 +1,17 @@
+{
+  "name": "web-utils",
+  "version": "1.0.0",
+  "description": "Personal utilities for the web",
+  "main": "dist/index.js",
+  "scripts": {},
+  "keywords": [
+    "web",
+    "util"
+  ],
+  "author": "Norabelle Reichwald <nora@reichwald.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.2"
+  }
+}
